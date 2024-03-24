@@ -1,15 +1,15 @@
 ### <div align="center">![Banner](banner-github-profile.png)</div>
 
-### <div align="center">👨‍💻 Un apasionado desarrollador freelance con un enfoque en la excelencia técnica y la innovación.</div>  
-  
+### <div align="center">👨‍💻 Un apasionado programador junior en constante crecimiento y aprendizaje.</div>   
 
 - 🌱 Mi viaje de aprendizaje continuo me lleva a explorar nuevas tecnologías, con el objetivo de convertirme en un desarrollador fullstack sólido y versátil.  
   
 
-- 📚 Además de mi trabajo en desarrollo FrontEnd, estoy ampliando mis horizontes con un bootcamp de fullstack MERN. Mi conocimiento abarca HTML, CSS, JavaScript y React. Siempre estoy buscando aprender de forma autodidacta y perfeccionar mis habilidades a través de la práctica constante.  
+- 💻 Además de mi trabajo en desarrollo FrontEnd, Actualmente estoy inmerso en un bootcamp Fullstack - MERN, donde estoy ampliando mis habilidades en desarrollo web. Mi conocimiento abarca HTML, CSS, JavaScript así como en el uso de bibliotecas y frameworks como React y Bootstrap para crear aplicaciones web dinámicas y atractivas. Siempre estoy buscando aprender de forma autodidacta y perfeccionar mis habilidades a través de la práctica constante.  
   
+- 📚 Además, estoy familiarizado con sistemas de control de versiones como Git y bases de datos tanto relacionales como no relacionales, incluyendo MySQL, PostgreSQL y SQL en general.
 
-- ❓ Si tienes alguna pregunta relacionada con el stack MERN o tecnologías afines, ¡no dudes en consultarme!  
+- 👀 ¡Estoy emocionado por seguir aprendiendo y contribuir al mundo del desarrollo de software!  
   
 
 <br/>  
